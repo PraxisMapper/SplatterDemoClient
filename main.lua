@@ -74,7 +74,8 @@ function GpsListener(event)
             onPlusCodeChangeCallback()
         end
     end
-    currentPlusCode = '85633JC8+QF'
+    -- If you're on the simulator, you'll need to uncomment and set this value to fall inside your server's play area.
+    --currentPlusCode = '85633JC8+QF'
 
     if (currentGpsCallback ~= nil) then currentGpsCallback(event) end
 end
