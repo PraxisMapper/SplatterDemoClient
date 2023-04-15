@@ -1,5 +1,6 @@
 # SplatterDemoClient
 A working client for the Splatter demo built-in to PraxisMapper. Designed against Release 9 of PraxisMapper server.
+Walk around to build up Paint points, tap the screen to spend a random amount to make a paint splat on the map.
 
 ![image](https://user-images.githubusercontent.com/114430030/227732195-fb0822b5-c3fd-4bda-85fb-00a7ccd8b3b8.png) ![image](https://user-images.githubusercontent.com/114430030/227732208-5eecfb64-1167-49df-9720-6635564b6063.png)
 
